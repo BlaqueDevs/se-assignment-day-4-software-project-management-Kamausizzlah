@@ -1,0 +1,94 @@
+1. Timely delivery is crucial because it ensures client satisfaction, cost control and competitive advantage by launching the product on time ensures staying ahead in the market.
+Project managers can ensure deadlines are met by; clear planning, setting milestones, regular monitoring and risk management.
+
+2. Effective cost control contributes to the success of a software project by ensuring the projects stays financially viable, building trust with clients and investors and allocating funds efficiently for maximum value.
+Strategies that can be used to prevent budget overruns include; regular monitoring of expenses, scope management, accurate estimations.
+
+3. Agile Methodology
+Advantages:
+
+Flexibility: Adapts to changing requirements.
+Customer Involvement: Continuous feedback ensures alignment with client needs.
+Faster Delivery: Delivers working software in increments.
+Risk Mitigation: Issues are identified and resolved early.
+
+Disadvantages:
+
+Less Predictable: Hard to define timelines and budgets upfront.
+Requires Collaboration: Demands close communication, which can be challenging for distributed teams.
+Documentation: Often deprioritized, leading to less comprehensive records.
+
+Waterfall Methodology
+Advantages:
+
+Clear Structure: Well-defined phases (e.g., Requirements, Design, Implementation).
+Predictability: Fixed timelines, budgets, and deliverables.
+Comprehensive Documentation: Ensures thorough project records.
+
+Disadvantages:
+
+Inflexibility: Difficult to accommodate changes once a phase is completed.
+Late Testing: Bugs are often found late, increasing risk.
+Customer Feedback Delayed: Involvement typically occurs only at the end, risking misaligned expectations.
+
+4. Where Agile is beneficial;
+Software Development Startups: Building an MVP where requirements change based on user feedback.
+Mobile App Development: Regular updates and feature enhancements based on market trends.
+AI/ML Projects: Models require frequent testing and fine-tuning.
+
+Where Waterfall is beneficial;
+Government Projects: Compliance-heavy systems like public infrastructure software.
+Construction Software: Where every phase (e.g., design, implementation) needs to be signed off before proceeding.
+ERP System Implementation: Complex but stable processes needing extensive upfront planning.
+
+5. Methods for Ensuring Quality Assurance include; automated testing, code reveiews, manual testing, CI/CD and user feedback.
+Importance of maintaining high standards; Customer satisfaction, cost efficiency, reputation, compliance and risk mitigation.
+
+6. Defining project scope contributes to successful project planning through clear objectives, resource allocation and prevention of scope creep.
+WBS is a hierarchical decomposition of the project into smaller, manageable tasks or deliverables. Its useful for task clarity, progress tracking, risk identification and better estimation of time, cost for each task.
+
+7. Benefits of a Detailed Project Schedule;
+
+Clear Timeline: Defines start and end dates for tasks, ensuring timely progress.
+Resource Management: Helps allocate resources efficiently.
+Milestone Tracking: Identifies critical deadlines and checkpoints.
+Risk Mitigation: Allows early identification of delays or bottlenecks.
+Improved Coordination: Ensures team members know their responsibilities and deadlines.
+Stakeholder Communication: Provides transparency and sets realistic expectations.
+
+How Gantt Charts Assist;
+
+Visual Representation: Displays tasks, durations, and dependencies in a timeline format.
+Dependency Tracking: Shows task sequences and relationships (e.g., which tasks must be completed first).
+Progress Monitoring: Enables tracking of task completion against planned schedules.
+Adjustability: Allows updates to reflect changes in scope or timelines, maintaining flexibility.
+Team Coordination: Helps team members visualize their tasks and how they fit into the overall project.
+
+8. Core Issues Software Aims to Address;
+
+Efficiency and Automation: Eliminates repetitive manual tasks, saving time and reducing errors.
+Data Management: Provides organized, secure storage and easy access to information.
+Communication and Collaboration: Facilitates seamless interaction among team members or users.
+Scalability: Ensures the system can grow with the user’s needs.
+User Experience: Simplifies complex processes through intuitive interfaces.
+
+Why These Problems Are Significant;
+
+Time-Saving: Users value tools that streamline their work, allowing focus on strategic activities.
+Cost Reduction: Automation reduces labor costs and operational inefficiencies.
+Decision-Making: Centralized and accurate data improves insights and outcomes.
+Competitiveness: Enables businesses to stay ahead in fast-paced markets.
+User Satisfaction: A better experience enhances adoption and loyalty.
+
+9. Focused Development: Ensures the team addresses the core issue without getting sidetracked by unrelated features.
+Requirement Clarity: Helps in gathering precise, actionable requirements that guide development.
+Better Resource Allocation: Allows efficient use of time, budget, and technical expertise.
+Improved Communication: Aligns stakeholders on the problem being solved, reducing misunderstandings.
+Effective Testing: Sets clear criteria for success, ensuring the solution meets user needs.
+Risk Reduction: Identifies potential challenges early, leading to proactive risk management.
+
+10. Our software is a user-friendly tool designed to solve [specific problem] by providing a seamless, efficient, and intuitive experience. It empowers users to achieve their goals faster and more effectively, while enhancing productivity and simplifying complex tasks. Whether you’re [target audience], this solution offers a reliable and scalable way to [key benefit], all while keeping things easy and accessible.
+
+11. User-Friendly Interface: Simplifies complex tasks with intuitive navigation and design.
+Customization Options: Tailors the software to meet unique user needs and preferences.
+Automation and Efficiency: Automates repetitive tasks, saving time and reducing errors.
